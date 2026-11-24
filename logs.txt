@@ -1,0 +1,16 @@
+2026-11-23 22:22:38,068 - INFO - Cliente registrado: Carlos Perez
+2026-11-23 22:22:38,070 - INFO - Cliente registrado: Maria Rodriguez
+2026-11-23 22:22:38,071 - ERROR - Cliente invalido: El correo electronico no es valido.
+2026-11-23 22:22:38,072 - INFO - Servicio agregado: Sala de reuniones
+2026-11-23 22:22:38,073 - INFO - Servicio agregado: Video Beam
+2026-11-23 22:22:38,073 - INFO - Servicio agregado: Asesoria informatica
+2026-11-23 22:22:38,074 - ERROR - Servicio invalido: El precio debe ser mayor que cero.
+2026-11-23 22:22:38,075 - INFO - Reserva creada: R001
+2026-11-23 22:22:38,075 - INFO - Reserva R001 confirmada.
+2026-11-23 22:22:38,075 - INFO - Finalizo el procesamiento de reserva R001.
+2026-11-23 22:22:38,076 - INFO - Reserva creada: R002
+2026-11-23 22:22:38,076 - INFO - Reserva R002 confirmada.
+2026-11-23 22:22:38,077 - INFO - Finalizo el procesamiento de reserva R002.
+2026-11-23 22:22:38,077 - ERROR - Error creando reserva: La duracion debe ser mayor que cero.
+2026-11-23 22:22:38,078 - INFO - Reserva R002 cancelada.
+2026-11-23 22:22:38,079 - ERROR - Error creando reserva: El servicio Sala de reuniones no esta disponible.
